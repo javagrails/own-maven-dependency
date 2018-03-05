@@ -7,6 +7,8 @@
     <!--<groupId>com.github.javagrails</groupId>
     <artifactId>utils</artifactId>-->
 
+    <!-- from f1 branch info 1 -->
+
     <groupId>com.bk.util</groupId>
     <artifactId>utils</artifactId>
     <version>1.0.0</version>
