@@ -1,5 +1,5 @@
 # utils - really - utils
-#### Purpose of this repository is
+#### Purpose of this repository are
 1. How to use a git repository directly in a java gradle or maven project
 2. How to use enable a git repository so that gradle or maven can get it globally
 3. Introduce JitPack.io ... 
